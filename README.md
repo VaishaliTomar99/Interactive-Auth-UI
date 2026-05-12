@@ -1,29 +1,42 @@
-Interactive Auth UI
+# 🔐 Interactive Auth UI
 
 A modern and responsive authentication interface built using HTML, CSS, JavaScript, and Bootstrap 5 with glassmorphism design, smooth animations, and interactive form validation.
 
-🚀 Live Demo
+---
 
-Add your deployed link here:
+## 🚀 Live Demo
 
-https://interactiveauthuivaishali.netlify.app/
-✨ Features
-🔒 Login Authentication UI
-📝 Registration Form
-🔑 Forgot Password Page
-👁️ Show / Hide Password
-🎨 Glassmorphism Design
-📱 Fully Responsive Layout
-⚡ Smooth Animations & Hover Effects
-🔔 Toast Notifications
-✅ Form Validation
-🌌 Animated Background Effects
-🛠️ Technologies Used
-HTML5
-CSS3
-JavaScript (ES6)
-Bootstrap 5
-📂 Project Structure
+🔗 https://interactiveauthuivaishali.netlify.app/
+
+---
+
+## ✨ Features
+
+- 🔒 Login Authentication UI
+- 📝 Registration Form
+- 🔑 Forgot Password Page
+- 👁️ Show / Hide Password
+- 🎨 Glassmorphism Design
+- 📱 Fully Responsive Layout
+- ⚡ Smooth Animations & Hover Effects
+- 🔔 Toast Notifications
+- ✅ Form Validation
+- 🌌 Animated Background Effects
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Bootstrap 5
+
+---
+
+## 📂 Project Structure
+
+```text
 task2-ui/
 │
 ├── index.html
@@ -33,36 +46,57 @@ task2-ui/
 ├── style.css
 ├── script.js
 └── images/
-📸 Screens Included
-Home Page
-Login Page
-Register Page
-Forgot Password Page
-🎯 Learning Outcomes
+```
+
+---
+
+## 📸 Screens Included
+
+- Home Page
+- Login Page
+- Register Page
+- Forgot Password Page
+
+---
+
+## 🎯 Learning Outcomes
 
 This project helped in understanding:
 
-Responsive UI Design
-Frontend Form Validation
-DOM Manipulation
-JavaScript Event Handling
-UI/UX Enhancement Techniques
-Bootstrap Components
-Modern CSS Animations
-🚀 How to Run
-Clone the repository
-git clone https://github.com/your-username/interactive-auth-ui.git
-Open project folder
-Run index.html in browser
+- Responsive UI Design
+- Frontend Form Validation
+- DOM Manipulation
+- JavaScript Event Handling
+- UI/UX Enhancement Techniques
+- Bootstrap Components
+- Modern CSS Animations
+
+---
+
+## 🚀 How to Run
+
+### Clone the repository
+
+```bash
+git clone https://github.com/VaishaliTomar99/Interactive-Auth-UI.git
+```
+
+### Open project folder
+
+Run `index.html` in browser
 
 OR
 
 Use VS Code Live Server Extension.
 
-📬 Contact
+---
 
-👩‍💻 Developed by: Vaishali Tomar
+## 📬 Contact
 
-GitHub: https://github.com/VaishaliTomar99
-LinkedIn: https://www.linkedin.com/in/vaishali-tomar-bb9247304/
-Email: tomarvaishali2000@gmail.com
+👩‍💻 Developed by: **Vaishali Tomar**
+
+- GitHub: https://github.com/VaishaliTomar99
+- LinkedIn: https://www.linkedin.com/in/vaishali-tomar-bb9247304/
+- Email: tomarvaishali2000@gmail.com
+
+---
